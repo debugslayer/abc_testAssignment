@@ -31,8 +31,8 @@ This project is a step-by-step guide to setting up a Selenium automation testing
 
   4. **Execute Tests**
 
-     Type the following command to execute the test cases
+     Type the following command to execute the test cases in header mode (Browser will open up to show entire execution of the test case)
 
      
      ```bash
-   pytest
+      pytest
